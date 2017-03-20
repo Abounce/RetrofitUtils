@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidUtils\RetrofitUtils\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e176fdfbe4e4fa7a6d4900b78c5746c52b66800a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_5ea215fafe26757b3eaa9e791da078c680959e41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_01cc990dcf2d17d688f9fc2e7c93ea22339e41ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.1\57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb\rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.1_88fc17d5d72694fd01b893bb935156af845d463f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidUtils\RetrofitUtils\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="546193179eb4777069d5bb4eb49ccfbeab4a6474">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_df8be650a90e20c61af54f66c31db67fa59ed379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton.retrofit\retrofit2-rxjava2-adapter\1.0.0-RC3\eddb0161424d30ec8b8b485bf72500a888c81f6c\retrofit2-rxjava2-adapter-1.0.0-RC3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eddb0161424d30ec8b8b485bf72500a888c81f6c">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit2-rxjava2-adapter-1.0.0-RC3_8f7ac8e7ed70ec3b7c7755a844adf3d28cfff67d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.0\ba14d8b7789efde5ee150eacb297b7237abca39\logging-interceptor-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ba14d8b7789efde5ee150eacb297b7237abca39">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.0_b3fde2cef71a54923fc8d0c35792bb7349dfd7bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b45c05c0ea1cc38166fe3526243e2ed28c73f795\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="E:\androidUtils\RetrofitUtils\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbb0924f7f75603c9ed9102ce17f17f3f4b3c691\classes.dex" />
+    </item>
+
+</items>
